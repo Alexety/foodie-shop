@@ -1,0 +1,13 @@
+com\imooc\controller\ShopcatController.class
+com\imooc\controller\HelloController.class
+com\imooc\controller\StuFooController.class
+com\imooc\config\Swagger2.class
+com\imooc\config\CorsConfig.class
+com\imooc\controller\ItemController.class
+com\imooc\aspect\ServiceLogAspect.class
+com\imooc\WarStarterApplication.class
+com\imooc\controller\PassportController.class
+com\imooc\Application.class
+com\imooc\controller\IndexController.class
+com\imooc\controller\AddressController.class
+com\imooc\controller\BaseController.class
